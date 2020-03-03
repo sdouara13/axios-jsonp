@@ -1,6 +1,6 @@
 {
-  "name": "axios-jsonp",
-  "version": "1.0.4",
+  "name": "axios-jsonp-plus",
+  "version": "1.0.0",
   "description": "A jsonp adapter for axios",
   "main": "./lib/index.js",
   "scripts": {
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdonisLau/axios-jsonp.git"
+    "url": "https://github.com/sdouara13/axios-jsonp.git"
   },
-  "author": "Adonis",
+  "author": "David Li",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^3.12.0"
